@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.2 Few-Shot Prompting.md",
+                "file": "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Structured Prompts with Explicit Criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Few-Shot Prompting"
+              "title": "4.3 Structured Prompts with Explicit Criteria"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.2 Few-Shot Prompting.md",
+                "file": "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Structured Prompts with Explicit Criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "f6627b068c2ba68f",
   "lastOpenFiles": [
+    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.2 Few-Shot Prompting.md",
     "Claude Certified Architect Foundations/Certification Guide/03 Claude Code Configuration & Workflows/3.6 CI,CD Integration.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.1 System Prompts with Explicit Criteria.md",
     "Claude Certified Architect Foundations/Certification Guide/03 Claude Code Configuration & Workflows/3.5 Iterative Refinement Techniques.md",
@@ -200,7 +201,6 @@
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.5 Batch Processing Strategies.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.4 Validation, Retry, and Feedback Loops.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Structured Prompts with Explicit Criteria.md",
-    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.2 Few-Shot Prompting.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.2 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.1 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.6 Exam Sim.md",
