@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Structured Prompts with Explicit Criteria.md",
+                "file": "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.1 Context Window Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Structured Prompts with Explicit Criteria"
+              "title": "5.1 Context Window Management"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Structured Prompts with Explicit Criteria.md",
+                "file": "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.1 Context Window Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,12 @@
   },
   "active": "f6627b068c2ba68f",
   "lastOpenFiles": [
+    "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.2 Escalation & Ambiguity Resolution.md",
+    "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.1 Context Window Management.md",
+    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.6 Multi-Instance and Multi-Pass Review.md",
+    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.5 Batch Processing Strategies.md",
+    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.4 Validation, Retry, and Feedback Loops.md",
+    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Structured Prompts with Explicit Criteria.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.2 Few-Shot Prompting.md",
     "Claude Certified Architect Foundations/Certification Guide/03 Claude Code Configuration & Workflows/3.6 CI,CD Integration.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.1 System Prompts with Explicit Criteria.md",
@@ -198,9 +204,6 @@
     "Claude Certified Architect Foundations/Certification Guide/03 Claude Code Configuration & Workflows/3.3 Path-Specific Rules for Conditional Convention Loading.md",
     "Claude Certified Architect Foundations/Certification Guide/03 Claude Code Configuration & Workflows/3.2 Custom Slash Commands and Skills.md",
     "Claude Certified Architect Foundations/Certification Guide/03 Claude Code Configuration & Workflows/3.1 CLAUDE.md Hierarchy, Scoping, and Modular Organisation.md",
-    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.5 Batch Processing Strategies.md",
-    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.4 Validation, Retry, and Feedback Loops.md",
-    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Structured Prompts with Explicit Criteria.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.2 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.1 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.6 Exam Sim.md",
@@ -210,12 +213,9 @@
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.2 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.3 Error Propagation In Multi-Agent Systems.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.1 Exam Sim.md",
-    "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.1 Context Window Management.md",
-    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.6 Multi-Instance and Multi-Pass Review.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.6 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.5 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.4 Exam Sim.md",
-    "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output/4.3 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability",
     "Claude Certified Architect Foundations/Certification Guide/04 Prompt Engineering & Structured Output",
     "Claude Certified Architect Foundations/Certification Guide/03 Claude Code Configuration & Workflows",
