@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.2 Escalation & Ambiguity Resolution.md",
+                "file": "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.3 Error Propagation In Multi-Agent Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Escalation & Ambiguity Resolution"
+              "title": "5.3 Error Propagation In Multi-Agent Systems"
             }
           }
         ]
@@ -190,9 +190,10 @@
   },
   "active": "f6627b068c2ba68f",
   "lastOpenFiles": [
+    "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.3 Exam Sim.md",
+    "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.2 Escalation & Ambiguity Resolution.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.5 Human Review & Confidence Calibration.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.6 Information Provenance & Multi-Source Synthesis.md",
-    "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.2 Escalation & Ambiguity Resolution.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.3 Error Propagation In Multi-Agent Systems.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.4 Codebase Exploration & Context Degradation.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.1 Context Window Management.md",
@@ -213,7 +214,6 @@
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.6 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.5 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.4 Exam Sim.md",
-    "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.3 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.2 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability/5.1 Exam Sim.md",
     "Claude Certified Architect Foundations/Certification Guide/05 Context Management & Reliability",
